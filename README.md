@@ -2,8 +2,6 @@
 
 **HRE1O1 | Grade 9 Religion**
 
-A slideshow presentation of my Faith Journey Portfolio, covering four Catholic virtues studied throughout the year.
-
 ## View the Slideshow
 
 **https://frierens-arm.github.io/religion-faith-journey-portfolio/slides.html**
